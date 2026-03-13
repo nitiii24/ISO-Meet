@@ -246,9 +246,12 @@ padding-top: 100px;
     margin-left: 60px;
 
 }
+.box5{
+    background-color: #EEEEEE;
+}
 .box5 h1{
     padding-left: 30px;
-    padding-top: 40px;
+    padding-top: 400px;
 }
 
 
@@ -257,6 +260,14 @@ padding-top: 100px;
     padding-top: 10px;
     color: rgba(49, 48, 48, 0.812);
     font-size: 20px;
+}
+.box4 img{
+      height: 350px;
+    width: 350px;
+    border-radius: 20px;
+    margin-top: 90px;
+    margin-left: 60px;
+
 }
 
 
@@ -364,6 +375,7 @@ padding-top: 100px;
  color: gray;
  padding-left: 180px;
 }
+
 .text3 button{
     padding: 10px;
     border-radius: 20px;
@@ -372,5 +384,14 @@ padding-top: 100px;
     border: 1px black solid;
     margin-left: 130px;
     margin-top: 30px;
+}
+.f-card-4-img-1 {
+    z-index: 5;
+    width: 20rem;
+    max-width: 50%;
+    height: auto;
+    position: absolute;
+    inset: 0% auto auto 15.5%;
+    margin-left: 300px;
 }
 
